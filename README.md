@@ -33,7 +33,7 @@
   <img width="12" />
   <img src="https://devicon-website.vercel.app/api/git/original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/github/original.svgcolor=%23D0B5B5" height="40" alt="github logo"  />
+  <img src="https://devicon-website.vercel.app/api/github/original.svg?color=%23D0B5B5" height="40" alt="github logo"  />
 </div>
 
 ###
