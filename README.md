@@ -23,7 +23,7 @@
   <img width="12" />
   <img src="https://devicon-website.vercel.app/api/nodejs/original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/express/original.svg" height="40" alt="express logo"  />
+  <img src="https://devicon-website.vercel.app/api/express/original.svg?color=%23D0B5B5" height="40" alt="express logo"  />
   <img width="12" />
   <img src="https://devicon-website.vercel.app/api/mysql/original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
