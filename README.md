@@ -17,8 +17,6 @@
   <img width="12" />
   <img src="https://devicon-website.vercel.app/api/react/original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/react/original.svg" height="40" alt="react logo"  />
-  <img width="12" />
   <img src="https://devicon-website.vercel.app/api/nodejs/original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://devicon-website.vercel.app/api/express/original.svg?color=%23D0B5B5" height="40" alt="express logo"  />
