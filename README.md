@@ -11,8 +11,6 @@
   <img width="12" />
   <img src="https://devicon-website.vercel.app/api/css3/original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/bootstrap/original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
   <img src="https://devicon-website.vercel.app/api/javascript/original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://devicon-website.vercel.app/api/typescript/original.svg" height="40" alt="typescript logo"  />
@@ -24,12 +22,6 @@
   <img src="https://devicon-website.vercel.app/api/nodejs/original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://devicon-website.vercel.app/api/express/original.svg?color=%23D0B5B5" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/mysql/original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/postgresql/original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/mongodb/original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://devicon-website.vercel.app/api/git/original.svg" height="40" alt="git logo"  />
   <img width="12" />
