@@ -1,37 +1,65 @@
-<h1 align="left">Olá! Sejam todos(as) bem vindos ao meu GitHub.</h1>
 
-###
+<h1 align="center">Hi, I'm Albery Reis 👋</h1>
 
-<h2 align="left">Tecnologias</h2>
+<h3 align="center">Software Developer | React Native | React | TypeScript</h3>
 
-###
+<p align="center">
+  Software developer with professional experience building mobile applications for Android and iOS.
+  <br />
+  Software Engineering student focused on web and mobile development.
+</p>
 
-<div align="left">
-  <img src="https://devicon-website.vercel.app/api/javascript/original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/typescript/original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/react/original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/nodejs/original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/express/original.svg?color=%23D0B5B5" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/git/original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/github/original.svg?color=%23D0B5B5" height="40" alt="github logo"  />
-</div>
+<p align="center">
+  <a href="https://portfolioalbery.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-0984E3?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/albery-reis">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:albery.reis.88@gmail.com">
+    <img src="https://img.shields.io/badge/Email-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-###
-
-<h2 align="left">Estatísticas</h2>
-
-###
+<h2 align="center">Technologies & Tools</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alberyReis&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=omni&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alberyReis&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=omni&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alberyReis&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,git,github&theme=dark" alt="JavaScript, TypeScript, React, Git, and GitHub" />
 </div>
 
-###
+<h2 align="center">GitHub Analytics</h2>
+
+<div align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=alberyReis&show_icons=true&hide_border=true&bg_color=0B0F14&title_color=0984E3&icon_color=0984E3&text_color=F1F5F9&ring_color=0984E3"
+    alt="GitHub Statistics"
+  />
+  &nbsp;
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alberyReis&layout=compact&hide_border=true&bg_color=0B0F14&title_color=0984E3&text_color=F1F5F9&langs_count=6"
+    alt="Most Used Programming Languages"
+  />
+</div>
+
+<h2 align="center">Featured Projects</h2>
+
+<div align="center">
+  <a href="https://github.com/alberyReis/receipt_generator_frontend">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=alberyReis&repo=receipt_generator_frontend&hide_border=true&bg_color=0B0F14&title_color=0984E3&icon_color=0984E3&text_color=F1F5F9"
+      alt="Receipt Generator Frontend"
+    />
+  </a>
+  <a href="https://portfolioalbery.vercel.app/">
+    <img
+      src="https://img.shields.io/badge/My_Portfolio-Explore-0B0F14?style=for-the-badge&logo=vercel&logoColor=0984E3"
+      alt="Explore My Portfolio"
+    />
+  </a>
+</div>
+
+<p align="center">
+  <sub>Building digital solutions with a focus on code quality, maintainability, and user experience.</sub>
+</p>
