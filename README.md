@@ -11,7 +11,7 @@ Software Engineering student focused on developing scalable, maintainable, and u
 
 <br />
 
-<a href="https://portfolioalbery.vercel.app/">
+<a href="https://portfolio-albery-reis.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-0984E3?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/albery-reis">
@@ -45,7 +45,7 @@ Software Engineering student focused on developing scalable, maintainable, and u
 
 ### Backend & Databases
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,dotnet,spring,mysql,mongodb,sqlite&theme=dark" alt="Backend technologies" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mysql,mongodb,sqlite&theme=dark" alt="Backend technologies" />
 
 ### Development Tools
 
