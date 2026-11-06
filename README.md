@@ -1,65 +1,134 @@
 
-<h1 align="center">Hi, I'm Albery Reis 👋</h1>
-
-<h3 align="center">Software Developer | React Native | React | TypeScript</h3>
-
-<p align="center">
-  Software developer with professional experience building mobile applications for Android and iOS.
-  <br />
-  Software Engineering student focused on web and mobile development.
-</p>
-
-<p align="center">
-  <a href="https://portfolioalbery.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-0984E3?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/albery-reis">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:albery.reis.88@gmail.com">
-    <img src="https://img.shields.io/badge/Email-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-<h2 align="center">Technologies & Tools</h2>
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,git,github&theme=dark" alt="JavaScript, TypeScript, React, Git, and GitHub" />
+
+# Hi, I'm Albery Reis 👋
+
+### Software Developer | React Native | React | TypeScript
+
+Software developer with professional experience building mobile applications for Android and iOS.
+
+Software Engineering student focused on developing scalable, maintainable, and user-centered applications.
+
+<br />
+
+<a href="https://portfolioalbery.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-0984E3?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/albery-reis">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:albery.reis.88@gmail.com">
+  <img src="https://img.shields.io/badge/Email-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
 </div>
 
-<h2 align="center">GitHub Analytics</h2>
+---
+
+## About Me
+
+- Software Developer with professional experience in **React Native**.
+- Experience developing mobile applications for **Android and iOS**.
+- Working with **JavaScript, TypeScript, React, and React Native**.
+- Knowledge of component-based architecture, REST APIs, and software engineering best practices.
+- Currently expanding my knowledge of **Angular, backend development, and automated testing**.
+
+---
+
+## Technologies & Tools
 
 <div align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=alberyReis&show_icons=true&hide_border=true&bg_color=0B0F14&title_color=0984E3&icon_color=0984E3&text_color=F1F5F9&ring_color=0984E3"
-    alt="GitHub Statistics"
-  />
-  &nbsp;
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alberyReis&layout=compact&hide_border=true&bg_color=0B0F14&title_color=0984E3&text_color=F1F5F9&langs_count=6"
-    alt="Most Used Programming Languages"
-  />
+
+### Frontend & Mobile
+
+<img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,angular,html,css&theme=dark" alt="Frontend technologies" />
+
+### Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,dotnet,spring,mysql,mongodb,sqlite&theme=dark" alt="Backend technologies" />
+
+### Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman,docker&theme=dark" alt="Development tools" />
+
 </div>
 
-<h2 align="center">Featured Projects</h2>
+---
+
+## GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/alberyReis/receipt_generator_frontend">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=alberyReis&repo=receipt_generator_frontend&hide_border=true&bg_color=0B0F14&title_color=0984E3&icon_color=0984E3&text_color=F1F5F9"
-      alt="Receipt Generator Frontend"
-    />
-  </a>
-  <a href="https://portfolioalbery.vercel.app/">
-    <img
-      src="https://img.shields.io/badge/My_Portfolio-Explore-0B0F14?style=for-the-badge&logo=vercel&logoColor=0984E3"
-      alt="Explore My Portfolio"
-    />
-  </a>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alberyReis&theme=github_dark"
+  alt="GitHub Statistics"
+  height="170"
+/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alberyReis&theme=github_dark"
+  alt="Most Used Languages"
+  height="170"
+/>
+
+<br />
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alberyReis&theme=github_dark"
+  alt="GitHub Contribution Overview"
+/>
+
 </div>
 
-<p align="center">
-  <sub>Building digital solutions with a focus on code quality, maintainability, and user experience.</sub>
-</p>
+---
+
+## Featured Projects
+
+<div align="center">
+
+### Receipt Generator
+
+A frontend application focused on generating and managing receipts through a modern and intuitive interface.
+
+<a href="https://github.com/alberyReis/receipt_generator_frontend">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Receipt Generator Repository" />
+</a>
+
+<br />
+<br />
+
+### Personal Portfolio
+
+My personal portfolio showcasing projects, technical skills, and professional experience.
+
+<a href="https://portfolioalbery.vercel.app/">
+  <img src="https://img.shields.io/badge/Live_Demo-0984E3?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Demo" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Let's Connect
+
+Interested in collaborating or discussing software development opportunities?
+
+Feel free to reach out through LinkedIn or email.
+
+<br />
+
+<a href="https://www.linkedin.com/in/albery-reis">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:albery.reis.88@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<br />
+<br />
+
+<sub>Building digital solutions with a focus on code quality, maintainability, and user experience.</sub>
+
+</div>
