@@ -49,7 +49,7 @@ Software Engineering student focused on developing scalable, maintainable, and u
 
 ### Development Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman,docker&theme=dark" alt="Development tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman&theme=dark" alt="Development tools" />
 
 </div>
 
